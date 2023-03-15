@@ -1,0 +1,33 @@
+## O que não é Pensamento Computacional
+
+Não se trata de saber navegar na internet, enviar e-mail, publicar um blog, operar um processador de texto ou planilha eletrônica. O Pensamento Computacional pressupõe a utilização do computador como um instrumento capaz de aumentar o poder cognitivo e operacional humano. Entretanto, não é apenas uma atividade de programação de computadores. Existe hoje o conceito de Computação Desplugada, que contempla atividades relacionadas à computação sem a utilização de um computador.
+
+## Habilidades do Pensamento Computacional
+
+#### Coleta de dados: capacidade de coletar informações de forma adequada;
+#### Análise de dados: dar sentido aos dados encontrando padrões e obtendo conclusões;
+#### Representação de dados: exibir dados através de gráficos, imagens e tabelas;
+#### Decompor problemas: separar uma tarefa em partes menores e gerenciáveis;
+#### Abstração: diminuir a complexidade do problema para poder identificar o elemento principal;
+#### Algoritmos e procedimentos: definir um conjunto de passos para resolver um problema ou tarefa;
+#### Automação: fazer uso de computadores e máquinas para execução de tarefas repetitivas;
+#### Paralelização: organizar recursos com o fim de realizar tarefas simultaneamente com o intuito de alcançar um objetivo comum;
+#### Simulação: representar ou modelar um processo.
+
+## Pilares do pensamento computacional
+
+### Abstação: Consiste na filtragem a classificação dos dados, criando mecanismos que permitam separar apenas os elementos essenciais em determinado problema, ignorando detalhes irrelevantes. Permite criar uma representação, uma ideia do que está se tentando resolver. Neste processo, essencial é escolher o detalhe a ser ignorado para que o problema seja mais fácil de ser compreendido sem perder nenhuma informação que seja importante para tal. 
+
+### Algoritmo: É uma sequência finita de etapas (passos), cada qual executável em um tempo finito, por um agente computacional, natural (humano) ou sintético (computador). Um algoritmo é um plano, uma estratégia ou um conjunto de instruções ordenadas para a solução de um problema ou execução de uma tarefa. A formulação de um algoritmo passa pelo processo de decomposição, reconhecimento de padrões e abstração. Na execução seguirão os passos pré-definidos, não havendo a necessidade de criar um novo algoritmo para cada uma de suas execuções posteriores. É o pilar que agrega os demais pilares.
+
+### Reconhecimento de Padrões: Os padrões são similaridades ou características que alguns problemas compartilham. O hábito de identificar padrões nos acompanha desde a infância, é uma construção continuada e o nosso repertório de padrões não para de crescer e de se reconstruir. O processo de reconhecimento de padrões permite encontrar similaridades ou padrões entre pequenos problemas decompostos. Quanto mais padrões encontrarmos, mais fácil e rápida será a nossa tarefa geral de solução de problemas.
+
+### Decomposição: É o processo que divide os problemas em partes menores para facilitar a resolução, desenvolvimento e gerenciamento. Analisa os problemas para identificar as partes que podem ser separadas e formas como podem ser reconstituídas para solucionar um problema como um todo. Possibilita resolver problemas complexos de forma mais simples e permite projetar sistemas de grande porte.
+
+
+## O que é Lógica de Programação ? 
+
+Lógica de Programação é o modo como se escrevem programas de computador através de uma sequência de passos para executar uma ou várias funções, esta sequência é o algoritmo.
+
+
+

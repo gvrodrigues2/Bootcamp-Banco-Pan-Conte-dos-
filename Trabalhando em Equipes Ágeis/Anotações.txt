@@ -1,0 +1,59 @@
+## Principios do manifesto ágil
+
+#### 1 – Geração de valor:
+“Nossa maior prioridade é satisfazer o cliente, através da entrega adiantada e contínua de software de valor.”
+
+#### 2- Flexibilidade:
+“Aceitar mudanças de requisitos, mesmo no fim do desenvolvimento. Processos ágeis se adequam a mudanças, para que o cliente possa tirar vantagens competitivas.”
+
+#### 3- Frequência:
+“Entregar o software em funcionamento com frequência, seja na escala de semanas ou meses, dando preferência a períodos mais curtos.”
+
+#### 4- União:
+“Tanto pessoas relacionadas a negócios como desenvolvedores devem trabalhar em conjunto, diariamente, durante todo o curso do projeto”.
+
+#### 5: Motivação:
+“Construir projetos em torno de indivíduos motivados, dando a eles o ambiente e o suporte necessário e confiando neles para fazer o trabalho.”
+
+#### 6: Comunicação:
+“O método mais eficiente e eficaz de transmitir informações para e entre uma equipe de desenvolvimento é por meio de conversa face a face”
+
+#### 7- Funcionalidade:
+“Software funcionando é a medida primária de progresso.”
+
+#### 8- Sustentabilidade:
+“Os processos ágeis promovem desenvolvimento sustentável. Os patrocinadores, desenvolvedores e usuários devem ser capazes de manter um ritmo constante indefinidamente.”
+
+#### 9- Revisão:
+“Contínua atenção à excelência técnica e bom design, aumenta a agilidade.”
+
+#### 10- Simplicidade:
+“A arte de maximizar a quantidade de trabalho que não precisou ser feito.”
+
+#### 11- Organização:
+“As melhores arquiteturas, requisitos e designs emergem de times auto-organizáveis.”
+
+#### 12- Autoavaliação:
+“Em intervalos regulares, o time reflete em como ficar mais efetivo, então, se ajustam e otimizam seu comportamento de acordo”
+
+
+## O que é gestão ágil? 
+
+ É uma abordagem leve e de mínima intervenção para o gerenciamento de projetos. Ou seja, o projeto é todo dividido em etapas menores, chamadas de iteração, que geralmente duram de 2 a 4 semanas e ao final de cada etapa há uma reavaliação das prioridades do projeto.
+
+### Scrum
+
+Scrum é um conjunto de boas práticas empregado no gerenciamento de projetos complexos, em que não se conhece todas as etapas ou necessidades. Focado nos membros da equipe, o Scrum torna os processos mais simples e claros, pois mantém registros visíveis sobre o andamento de todas as etapas.
+
+### Xp
+
+Extreme Programming (XP) é um método ágil criado no final da década de 90 para desenvolvimento de software. É uma metodologia que tem como objetivo criar sistemas com alta qualidade, com base em uma interação próxima com os clientes, testagem constante e ciclos de desenvolvimento curtos.
+
+### Kanban
+
+O termo “Kanban” é de origem japonesa e significa “sinalização” ou “cartão”, e propõe o uso de cartões (post-its) para indicar e acompanhar o andamento da produção dentro da indústria. Trata-se de um sistema visual que busca gerenciar o trabalho conforme ele se move pelo processo.
+
+
+### OKR
+
+OKR (Objectives and Key Results ou Objetivos e Resultados-Chave em português) é uma metodologia de gestão muito utilizada por empresas no Vale do Silício. De modo simplificado, pode se dizer que é uma fórmula para definir metas sendo como “Eu vou” (Objetivo) “medido por” (conjunto de resultados-chave).
